@@ -1,0 +1,9 @@
+{
+  "name": "zig-translate-c",
+  "module": "index.ts",
+  "type": "module",
+  "bin": "zig-translate-c.ts",
+  "devDependencies": {
+    "bun-types": "^0.4.0"
+  }
+}
