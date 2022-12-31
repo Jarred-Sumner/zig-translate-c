@@ -1,3 +1,5 @@
+#!/usr/bin/env bun
+
 import { spawnSync, which, write } from "bun";
 import { unlinkSync } from "fs";
 import { tmpdir } from "os";

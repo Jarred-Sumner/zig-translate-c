@@ -1,6 +1,7 @@
 {
   "name": "zig-translate-c",
-  "module": "index.ts",
+  "version": "0.0.2",
+  "module": "zig-translate-c.ts",
   "type": "module",
   "bin": "zig-translate-c.ts",
   "devDependencies": {
